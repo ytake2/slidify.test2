@@ -1,6 +1,6 @@
 ---
-title: Checking Reveal.js
-author: Ramnath Vaidyanathan
+title: revealjsをslidifyで
+author: 竹林 由武
 mode : selfcontained
 framework: revealjs
 hitheme : zenburn
