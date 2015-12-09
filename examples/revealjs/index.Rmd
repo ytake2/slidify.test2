@@ -33,9 +33,8 @@ navbar:
 # Reveal.js
 ### HTML PRESENTATIONS MADE EASY
 
-<small> Created by [Hakim El Hattab](http://hakim.se) / [@hakimel](http://twitter.com/hakimel) </small>
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+- 竹林
+- 由武
 
 *** =pnotes
 
