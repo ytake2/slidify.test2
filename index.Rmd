@@ -3,7 +3,7 @@ title       : A
 subtitle    : a
 author      : bbb
 job         : ccc
-framework   : revealsjs        # {io2012, html5slides, shower, dzslides, ...}
+framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
 revealjs    : {theme: simple, transition: cube}
 highlighter : prettify  # {highlight.js, prettify, highlight}
 hitheme     : desert      # 

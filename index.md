@@ -1,11 +1,12 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
+title       : A
+subtitle    : a
+author      : bbb
+job         : ccc
+framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
+revealjs    : {theme: simple, transition: cube}
+highlighter : prettify  # {highlight.js, prettify, highlight}
+hitheme     : desert      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
